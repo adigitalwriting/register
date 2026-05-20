@@ -3,8 +3,10 @@
     "username": "adigitalwriting",
     "email": "morphoices@gmail.com"
   },
-
-  "records": {
-    "CNAME": "morphoices.framer.website"
-  }
+  "records": [
+    {
+      "type": "CNAME",
+      "value": "morphoices.framer.website"
+    }
+  ]
 }
